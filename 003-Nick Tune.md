@@ -12,7 +12,7 @@
 
 نیک  در تویتر: https://twitter.com/ntcoding 
 
-نیک در لینکداین: linkedin.com/in/nick-tune-3671441a
+نیک در لینکداین: https://linkedin.com/in/nick-tune-3671441a
 
 
 ### نتایج جستجو و تحقیقات
