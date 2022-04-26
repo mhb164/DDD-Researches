@@ -2,12 +2,16 @@
 با نیک تیون (Nick Tune) بیشتر آشنا شویم:
 
 نیک تیون، جوانِ پر شور و فعالِ انگلیسی است که کارنامه پُرباری در زمینه DDD، حل مسائل دامین، معماری، استراتژی و طراحی تیم‌های چابک دارد.
+
 نیک با CTOها و technology leaderها در زمینه تعریف استراتژی، ایجاد معماری و ساخت تیم‌های چابک همکاری می‌کند. به گفته‌ی نیک، او را میتوان جهت مشاوره، آموزش، ارائه و نوشتن به صورت حضوری و غیرِ حضوری استخدام نمود.
+
 سخنرانی‌ها و ارائه‌های زیادی توسط نیک ارائه شده که در وبگاه شخصی او https://www.ntcoding.co.uk/speaking برخی از آنها در دسترس است.
+
 نیک به همراه اسکات میلت، دو کتاب ارزنده Patterns, Principles, and Practices of Domain-Driven Design و Designing Autonomous Teams and Services را تالیف کرده است. او هم اکنون در حال تالیف کتابِ Architecture Modernization: Product, Domain, and Team-Oriented می‌باشد که قسمت‌های آمده آن از https://leanpub.com/arch-modernization-ddd در دسترس است.
 
 
 نیک  در تویتر: https://twitter.com/ntcoding 
+
 نیک در لینکداین: linkedin.com/in/nick-tune-3671441a
 
 
